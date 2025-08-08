@@ -2,7 +2,7 @@
 A not so light-weight extension for threading and multiprocessing with extra features.
 
 # How to use
-python``
+py``
 from TNMPExt import *
 ``
 
